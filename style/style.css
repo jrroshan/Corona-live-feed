@@ -19,6 +19,7 @@ td {
 table {
   height: 100%;
   width: 100%;
+  position:relative;
 }
 #container {
   width: 100%;
@@ -31,6 +32,6 @@ table {
 }
 
 .headFixed{
-  position:sticky
-    background: red
+  position:sticky;
+  background: red;
 }
